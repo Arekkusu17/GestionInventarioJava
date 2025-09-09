@@ -1,0 +1,10 @@
+com\mycompany\gestioninventariojava\model\Product.class
+com\mycompany\gestioninventariojava\model\Inventory.class
+com\mycompany\gestioninventariojava\view\ProductView.class
+com\mycompany\gestioninventariojava\controller\InventoryController.class
+com\mycompany\gestioninventariojava\view\MainMenu.class
+com\mycompany\gestioninventariojava\tests\InventoryTest.class
+com\mycompany\gestioninventariojava\app\GestionInventarioJava.class
+com\mycompany\gestioninventariojava\helpers\InputValidator.class
+com\mycompany\gestioninventariojava\tests\ProductTest.class
+com\mycompany\gestioninventariojava\view\InventoryView.class
